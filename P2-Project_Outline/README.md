@@ -7,11 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project is Project Monitoring System(PMS).This software is used to Monitor the activities in the Project. 
+This software allows you to create and manage multiple projects simultaneously. 
+Tasks will be created under each project and team members will be assigned to each tasks.
+With the help of my software the Executive Management can make effective decisions in planning and reduce costs.
+I got the idea from one of my friend.
+
 ### Features
-Include Features here
+In this Application, the features are:
+1. User login : Create team members, and they will be assigned across projects.
+2. Create project : Create a new project and start configuring it.
+3. Tasks : Create tasks for project and assign task to Team Members.
+4. Reports : We can generate reports based on tasks, projects.
+
 ### Technologies
-Include Technologies here
+ASP.Net MVC
+SQL
+Entity Framework
+Github
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+Generate reports and save to excel.
