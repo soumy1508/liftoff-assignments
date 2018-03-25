@@ -7,9 +7,15 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
+Index page
+https://github.com/soumy1508/liftoff-assignments/blob/master/P3-Project_Planning/index.pdf
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+Add Project page
+https://github.com/soumy1508/liftoff-assignments/blob/master/P3-Project_Planning/Add_Project.pdf
+
+Add Task page
+https://github.com/soumy1508/liftoff-assignments/blob/master/P3-Project_Planning/Add_task.pdf
 
 ### Project Tracker
+https://www.pivotaltracker.com/n/projects/2158638
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
